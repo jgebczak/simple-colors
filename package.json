@@ -1,0 +1,24 @@
+{
+  "name": "simple-colors",
+  "version": "0.1.0",
+  "description": "Add colors to your console output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgebczak/simple-colors.git"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "colors",
+    "cli",
+    "console"
+  ],
+  "author": "James Gebczak",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
